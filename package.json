@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "csv-parse": "^4.8.8",
+    "knex": "^0.21.12",
+    "lodash": "^4.17.15",
+    "papaparse": "^5.2.0",
+    "pg": "^8.5.1",
+    "uuid": "^8.1.0",
+    "wkt": "^0.1.1",
+    "license": "GPL-3.0-or-later"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
